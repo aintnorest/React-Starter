@@ -1,0 +1,36 @@
+{
+  "name": "wearshare-react",
+  "version": "1.0.0",
+  "description": "WearshareMobile Application",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vizidrix/wearshare-react.git"
+  },
+  "author": "Vizidrix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vizidrix/wearshare-react/issues"
+  },
+  "homepage": "https://github.com/vizidrix/wearshare-react",
+  "devDependencies": {
+    "autoprefixer-loader": "^1.2.0",
+    "babel-core": "^5.1.10",
+    "babel-loader": "^5.0.0",
+    "browser-sync": "^2.6.4",
+    "chokidar": "^1.0.1",
+    "css-loader": "^0.10.1",
+    "file-loader": "^0.8.1",
+    "fs-extra": "^0.18.1",
+    "node-notifier": "^4.2.1",
+    "node-sass": "^2.1.1",
+    "react": "^0.13.1",
+    "sass-loader": "^0.6.0",
+    "style-loader": "^0.10.2",
+    "url-loader": "^0.5.5",
+    "webpack": "^1.8.4"
+  }
+}
